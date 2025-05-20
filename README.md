@@ -8,4 +8,4 @@ With the growing concern about the impact of sleep quality on health, automatic 
 ![Hybrid Data Enrichment](images/Figure_2.png)
 
 2. **Bidirectional Cross-Granularity Mixing (BCGM)**  
-![MFM](images/Figure_3.png)
+![MFM](image/Figure_3.png)
