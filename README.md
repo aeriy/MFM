@@ -5,8 +5,7 @@ A Multi-Granularity Feature Mixing Framework for Single-Channel EEG Sleep Stagin
 With the growing concern about the impact of sleep quality on health, automatic sleep staging is becoming increasingly important. However, existing automatic sleep staging methods face the dual challenges of insufficient training samples and complex feature representation: the high-noise nature of electroencephalography (EEG) signals and the high cost of annotation hinder the construction of large-scale, high-quality training datasets; Moreover, current feature extraction techniques fail to effectively capture multi-scale spatio-temporal features, limiting the model’s ability to represent complex physiological signals.
 ## Multi-Granularity Feature Mixing Framework with Hybrid Data Enrichment (MFM)
 1. **Hybrid Data Enrichment**  
-![Hybrid Data Enrichment](image/Figure_2.pdf)
-<embed src="image/Figure_2.pdf" width="800px" height="600px"/>
+![Hybrid Data Enrichment](HDE.png)
 
 3. **Bidirectional Cross-Granularity Mixing (BCGM)**  
 ![MFM](image/Figure_3.pdf)
