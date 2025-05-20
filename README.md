@@ -6,6 +6,7 @@ With the growing concern about the impact of sleep quality on health, automatic 
 ## Multi-Granularity Feature Mixing Framework with Hybrid Data Enrichment (MFM)
 1. **Hybrid Data Enrichment**  
 ![Hybrid Data Enrichment](image/Figure_2.pdf)
+<embed src="image/Figure_2.pdf" width="800px" height="600px"/>
 
-2. **Bidirectional Cross-Granularity Mixing (BCGM)**  
+3. **Bidirectional Cross-Granularity Mixing (BCGM)**  
 ![MFM](image/Figure_3.pdf)
