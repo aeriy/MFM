@@ -1,0 +1,5 @@
+pandas
+mne
+scikit-learn
+terminaltables
+termcolor
